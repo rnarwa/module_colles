@@ -1,0 +1,7 @@
+Liste des labels d'exos triés par planche. Utiliser \selectexo{planche}{label_exo} pour inclure dans un .tex d'une planche. Utiliser exo_view.bat label_exo ou exo_view.bat -type planche pour avoir une prévisualisation des exercices voulus.
+
+Liste des exercices pour les planches Type1:
+arc_en_ciel (corrigé); 
+
+Liste des exercices pour les planches Type2:
+goutte; 

@@ -1,0 +1,2 @@
+del *.aux
+del *.log

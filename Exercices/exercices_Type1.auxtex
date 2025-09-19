@@ -1,0 +1,11 @@
+\begin{Exercise}
+    [title = Un arc-en-ciel, type =Type1, label = arc_en_ciel, difficulty=1]
+    \imageExo[0.7]{arc_en_ciel.png}{Un arc-en-ciel}
+    
+\end{Exercise}
+\begin{Answer}
+    [ref = arc_en_ciel]
+
+    Ici, la correction de l'exercice. 
+\end{Answer}
+%Fin du fichier 

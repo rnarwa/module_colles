@@ -1,0 +1,10 @@
+\begin{Exercise}
+    [title = Une belle goutte, type = Type2, label = goutte, difficulty=1]
+
+    Cet exercice n'est pas corrigé
+
+    \imageExo[0.2]{belle_goutte.jpg}{Une belle goutte}
+
+\end{Exercise}
+
+%Fin du fichier 
