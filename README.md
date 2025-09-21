@@ -6,7 +6,7 @@ Un gestionnaire complet à destination des enseignants en CPGE pour les interrog
 
 ## Prérequis
 
-* Ume distribution de LaTeX (inclue dans le PATH)
+* Une distribution de LaTeX (inclue dans le PATH)
 * Python avec les modules `numpy`, `tkinter` et `pickle`.
 * Certaines fonctionalités ne sont disponible que sous Windows (en particulier les fichiers `.bat`)
 
