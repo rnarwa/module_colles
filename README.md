@@ -4,6 +4,12 @@
 
 Un gestionnaire complet à destination des enseignants en CPGE pour les interrogations orales.
 
+## Prérequis
+
+* Ume distribution de LaTeX (inclue dans le PATH)
+* Python avec les modules `numpy`, `tkinter` et `pickle`.
+* Certaines fonctionalités ne sont disponible que sous Windows (en particulier les fichiers `.bat`)
+
 ## Module de colles, mode d'emploi
 
 
